@@ -3,7 +3,7 @@
 An interactive and responsive **Portfolio Website** to showcase my skills, projects, and experience.  
 Built with **HTML, CSS, and JavaScript**, this portfolio highlights my work and provides easy navigation for recruiters and collaborators.  
 
-🌐 **Live Demo**: [Click here to view Personal-Portfolio](https://yuvarajssyk.github.io/Personal-Portfolio/)  
+
 
 ---
 
@@ -47,6 +47,8 @@ Interactive form with email & phone details.
 
 ## 📂 Project Structure  
 
+🌐 **Live Demo**: [Click here to view Personal-Portfolio](https://yuvarajssyk.github.io/Personal-Portfolio/)  
+
 ---
 
 ## 📄 License  
@@ -54,6 +56,6 @@ This project is for **personal use**.
 You can fork it and modify it as your own portfolio template.  
 
 ---
-🔗 **My Official Portfolio Website :** [yuvarajssyk02.netlify.app](https://yuvarajssyk02.netlify.app/)  
+🔗  [Official Portfolio Website](https://yuvarajssyk02.netlify.app/)  
 
 ✨ **Created by [Yuvaraj S](https://github.com/yuvarajssyk)**  
