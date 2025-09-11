@@ -615,6 +615,27 @@ i{
     color: #fff;
     z-index: 2;
 }
+/* link */
+
+/* Keep the icon hidden by default */
+.project-box .icon-link {
+    position: absolute;    /* positioned relative to project-box */
+    top: 10px;
+    right: 10px;
+    font-size: 24px;
+    color: #ffffff;
+    opacity: 0;
+    pointer-events: none;  /* icon not clickable until visible */
+    transition: opacity 0.3s ease;
+}
+
+/* Show icon on hover and make it clickable */
+.project-box:hover .icon-link {
+    opacity: 1;
+    pointer-events: auto;
+    z-index: 99;
+}
+
 
 .top-header span{
     color: var(--text-color);
@@ -906,5 +927,6 @@ footer{
         margin-left: 50%;
     }
 }
+
 
 
