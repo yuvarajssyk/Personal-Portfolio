@@ -58,4 +58,4 @@ You can fork it and modify it as your own portfolio template.
 ---
 🔗  [Official Portfolio Website](https://yuvarajssyk02.netlify.app/)  
 
-✨ **Created by [Yuvaraj S](https://github.com/yuvarajssyk)**  
+✨ **Created by [Yuvaraj S](https://github.com/yuvarajssyk)** 
